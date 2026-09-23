@@ -1,0 +1,28 @@
+product_id,product_name,category,cost_price
+1,Wireless Headphones,Electronics,156.58
+2,Smart Watch,Electronics,17.32
+3,Bluetooth Speaker,Electronics,120.39
+4,Keyboard,Electronics,119.14
+5,Mouse,Electronics,18.43
+6,Webcam,Electronics,133.25
+7,USB-C Hub,Electronics,145.7
+8,Power Bank,Electronics,26.79
+9,Desk Lamp,Home,40.95
+10,Coffee Maker,Home,100.24
+11,Air Purifier,Home,32.11
+12,Storage Box,Home,39.56
+13,Office Chair,Home,87.57
+14,Water Bottle,Home,158.41
+15,Bedside Lamp,Home,20.97
+16,Yoga Mat,Fitness,146.98
+17,Dumbbells,Fitness,155.23
+18,Resistance Bands,Fitness,24.84
+19,Fitness Tracker,Fitness,120.17
+20,Running Shoes,Fitness,100.98
+21,Gym Bag,Fitness,10.54
+22,Backpack,Accessories,24.04
+23,Phone Case,Accessories,137.61
+24,Laptop Sleeve,Accessories,48.66
+25,Wallet,Accessories,77.9
+26,Sunglasses,Accessories,90.79
+27,Travel Adapter,Accessories,156.72
